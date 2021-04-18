@@ -1,3 +1,5 @@
+# Create Quarkus microservice
+mvn io.quarkus:quarkus-maven-plugin:1.13.2.Final:create -DprojectGroupId=org.example -DprojectArtifactId=MatchManagement
 # MatchManagement project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
